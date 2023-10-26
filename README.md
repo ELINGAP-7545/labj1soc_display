@@ -5,8 +5,6 @@ ejecutar  tanto en simulación como en  implementación  el procesador j1 agrega
 
 ## entregable 
 
-informe  y sustenación del laboratorio
+informe  y sustentación del laboratorio
 
 
-## fecha 
-25 de mayo
